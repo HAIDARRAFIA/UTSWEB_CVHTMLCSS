@@ -422,7 +422,7 @@ header {
     }
 }
 .skill_bar .bar .react{
-    width: 1%;
+    width: 25%;
     animation: react 2s;
 }
 @keyframes react {
@@ -433,7 +433,7 @@ header {
     }
 }
 .skill_bar .bar .node{
-    width: 15%;
+    width: 10%;
     animation: node 2s;
 }
 @keyframes node {
